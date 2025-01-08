@@ -1,1 +1,1 @@
-Esse projeto busca explicar e dar o entendimento acerca das demandas internas de uma empresa.
+Este projeto oferece uma análise estratégica e prática das necessidades do setor de vendas de uma empresa, abordando as demandas internas que impactam diretamente na performance comercial. Ao identificar as principais dificuldades e soluções, ele proporciona uma visão clara para otimizar processos, melhorar resultados e fortalecer a integração entre equipes, impulsionando o crescimento sustentável do negócio.
